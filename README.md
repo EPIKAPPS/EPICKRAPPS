@@ -7,8 +7,4 @@ I'm a independent developer.
 
 I learned several programming languages but lastly I stayed with Python and Web development.
 
-### Hola 👋
 
-Soy un desarrollador independiente.
-
-Aprendí varios lenguajes de programación pero finalmente me quedé con Python y el desarrollo web.
