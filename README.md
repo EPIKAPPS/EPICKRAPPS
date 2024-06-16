@@ -5,6 +5,6 @@
 
 I'm a independent developer.
 
-I learned several programming languages but lastly I stayed with Python and Web development.
+I learned several programming languages but lastly I stayed with Python, JAVA and Web development.
 
 
